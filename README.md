@@ -10,3 +10,5 @@ This will also cover:
   * CMake
   * How to make calls between CPP and Rust
   * Share market application
+  * Use kanban chart to manage progress
+  * Use gtest for cpp unit testing
