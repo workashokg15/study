@@ -12,3 +12,4 @@ This will also cover:
   * Share market application
   * Use kanban chart to manage progress
   * Use gtest for cpp unit testing
+  * https://google.github.io/comprehensive-rust/
