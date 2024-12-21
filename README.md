@@ -13,6 +13,7 @@ This will also cover:
   * Use kanban chart to manage progress
   * Use gtest for cpp unit testing
   * https://google.github.io/comprehensive-rust/
+  * UML link : https://plantuml.com/
 
   To checkout this and setup all submodules till develop
 
