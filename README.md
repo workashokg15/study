@@ -13,3 +13,9 @@ This will also cover:
   * Use kanban chart to manage progress
   * Use gtest for cpp unit testing
   * https://google.github.io/comprehensive-rust/
+
+  To checkout this and setup all submodules till develop
+
+git clone git@github.com:workashokg15/study.git
+cd study
+python3 setup_study_all_develop.py
