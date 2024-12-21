@@ -1,0 +1,3 @@
+[submodule "rust_study"]
+	path = rust_study
+	url = git@github.com:workashokg15/rust_study.git
