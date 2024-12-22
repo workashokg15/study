@@ -8,11 +8,11 @@ subprocess.run(["git", "submodule", "add", "git@github.com:workashokg15/rust_stu
 subprocess.run(["git", "submodule", "add", "git@github.com:workashokg15/arch_study.git"])
 
 
+
 subprocess.run(["git", "submodule", "update", "--init", "--recursive"])
 
-subprocess.run(["git", "submodule", "foreach", "git", "checkout", "-b", "develop"])
+subprocess.run(["git", "submodule", "foreach", "git", "checkout", "develop"])
 
 
-subprocess.run()
 
 

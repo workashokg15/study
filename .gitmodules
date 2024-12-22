@@ -1,3 +1,9 @@
 [submodule "rust_study"]
 	path = rust_study
 	url = git@github.com:workashokg15/rust_study.git
+[submodule "arch_study"]
+	path = arch_study
+	url = git@github.com:workashokg15/arch_study.git
+[submodule "cpp_study"]
+	path = cpp_study
+	url = git@github.com:workashokg15/cpp_study.git
