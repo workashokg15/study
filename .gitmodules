@@ -7,3 +7,6 @@
 [submodule "cpp_study"]
 	path = cpp_study
 	url = git@github.com:workashokg15/cpp_study.git
+[submodule "python_study"]
+	path = python_study
+	url = https://github.com/workashokg15/python_study
